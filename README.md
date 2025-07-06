@@ -1,0 +1,1 @@
+Bu proje sadece HTML kullanılarak hazırlanmış basit bir interaktif masal sitesidir. Her bölüm ayrı bir HTML dosyasında yer almakta ve sayfalar arası bağlantılarla ilerlenmektedir.
